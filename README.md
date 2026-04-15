@@ -92,9 +92,13 @@ Built an interactive dashboard with 4 views:
 ## Project Structure
 etl-data-quality-monitoring/
 ├── ETL_Data_Quality.ipynb       # Main Python notebook (ETL + Quality Checks)
+
 ├── data_quality_checks.sql      # SQL queries for data quality validation
+
 ├── data_quality_dashboard.twbx  # Tableau dashboard file
+
 ├── .gitignore                   # Excludes large CSV files
+
 └── README.md                    # Project documentation
 
 ---
